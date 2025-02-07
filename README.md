@@ -147,7 +147,7 @@ JWT_SECRET=your_jwt_secret_key
 For any issues or feature requests, feel free to reach out or create a new issue in the repository.  
 
 📧 **Email:** sohithreddy33@gmail.com
-🔗 **GitHub:** [Your GitHub Profile](https://github.com/Sohith-reddy)  
+🔗 **GitHub:** [Sohith-reddy](https://github.com/Sohith-reddy)  
 
 ---
 
